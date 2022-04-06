@@ -1,9 +1,12 @@
+# 👋 Hello, I’m Poojan Gandhi
+
+
 ![](https://komarev.com/ghpvc/?username=poojan1202&color=0000ff&style=plastic)
 
 
 
 
-- 👋 Hi, I’m Poojan Gandhi
+
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently an undergrad at VNIT
 - 📫 How to reach me ..... poojangandhi001@gmail.com
