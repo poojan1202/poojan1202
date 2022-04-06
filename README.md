@@ -1,3 +1,8 @@
+![](https://komarev.com/ghpvc/?username=poojan1202&color=cyan)
+
+
+
+
 - 👋 Hi, I’m Poojan Gandhi
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently an undergrad at VNIT
