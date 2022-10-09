@@ -11,7 +11,7 @@
 
 - 🌱 Robotics and AI Enthusiast
 - 🌱 Exploring the field of **Reinforcement Learning**
-- :robot: A member of [IvLabs, VNIT](https://www.ivlabs.in/)
+- :robot: A member of [IvLabs](https://www.ivlabs.in/), the AI and Robotics Community of VNIT, India
 - :school: An undergrad at [VNIT, Nagpur](https://vnit.ac.in/)
 - 📫 Reach me at poojangandhi001@gmail.com
 
